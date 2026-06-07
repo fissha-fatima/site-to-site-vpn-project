@@ -1,2 +1,18 @@
-# site-to-site-vpn-project
-Implementation and configuration of a Site-to-Site VPN for secure communication between remote networks. Network Security project demonstrating Site-to-Site VPN deployment, configuration, and testing. Academic project focused on designing and implementing a secure Site-to-Site VPN connection.
+# Site-to-Site VPN Project
+
+## Overview
+This project demonstrates the design, configuration, and testing of a Site-to-Site VPN to establish secure communication between two remote networks.
+
+## Objectives
+- Configure a Site-to-Site VPN
+- Ensure secure data transmission
+- Verify connectivity between networks
+- Analyze VPN security features
+
+## Technologies Used
+- Cisco Packet Tracer / GNS3 (whichever you used)
+- IPsec VPN
+- Networking Protocols
+
+## Results
+Successfully established a secure VPN tunnel between two sites and verified encrypted communication.
